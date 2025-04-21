@@ -1,0 +1,196 @@
+Hi Kuiper team, before starting testing report, i would like to briefly introduce my self.
+My name is Charlie form CNT Team. I will be responsible for Primo, taking over Tim, starting this week. Nice to meet you all
+Now I would like to update you on testing part. The first, For DFM approval, for now we haven't got approval from Kuiper yet so schedule has been pushed back to the 23rd (a delay of two days)
+Moving on, Regarding, AFT shielding box, In case, AGT vendor is designated. we will be able to be on schedule. If AGT is not designated, We will wait for June 19th just DFM. so we suggest going with AGT to meet the deadline. how do you think?
+And the same with AFT shielding, for Zero Gauss, we also suggest going with the Welltest vendor
+Cách nói tiếng Anh        | Nghĩa tiếng Việt | Ghi chú
+on schedule               | đúng tiến độ, đúng lịch trình | Cách dùng phổ biến nhất
+on track                  | đang đi đúng hướng, đúng tiến độ | Thường dùng trong báo cáo tiến độ
+meet the deadline         | hoàn thành đúng hạn | Dùng khi có hạn chót cụ thể
+keep up with the schedule | theo kịp tiến độ đã đề ra | Nhấn mạnh nỗ lực để không bị trễ
+stay on timeline (ít hơn) | bám sát tiến độ | Dùng trong môi trường quản lý dự án
+deliver on time           | giao đúng hạn | Thường dùng với sản phẩm/dự án cụ thể
+Can we waive this item so that we can proceed?
+Is it possible to skip this item and move forward?
+Can we proceed without this item?
+We’d like to waive this item in order to move forward. Is that acceptable?
+Can we get approval to waive this item and continue?
+The meeting should take no longer than 30 minutes.
+You should receive a response in no longer than 3 working days
+why are you stuck at 100% utilization for this device even 5 minutes after boot?
+give time for things to settle
+
+Nếu bạn muốn dùng trong văn bản trang trọng hoặc kỹ thuật, có thể dùng:
+→ “customer-designated or allocated supplier”
+
+Nếu muốn diễn đạt linh hoạt hơn, bạn có thể dùng:
+→ “supplier designated/assigned by the customer”
+There's no need to separate them => No need to sperate them
+It's not necessary to separate them individually
+They don't need to be separated
+[Số lần] + per + [khoảng thời gian]
+once per day / week / shift
+
+twice per month
+
+three times per year
+
+👉 Ví dụ:
+
+The equipment is inspected once per shift.
+
+It is tested twice per day.
+
+[Số lần] + a + [khoảng thời gian]
+→ Dùng như cách nói thân mật / đời thường hơn so với "per"
+
+once a day = once per day
+
+twice a week = twice per week
+
+👉 Ví dụ:
+
+We meet once a week.
+
+He exercises three times a day.
+
+📌 Một vài cách diễn đạt nâng cao hơn:
+On a [daily/weekly/monthly] basis
+→ Ví dụ: The inspection is conducted on a daily basis.
+
+At a frequency of [số lần] per [khoảng thời gian]
+→ Ví dụ: The test is performed at a frequency of 3 times per shift.
+---
+
+## 📝 **I. Bắt đầu phần báo cáo công việc**
+
+| Cụm từ tiếng Anh                          | Nghĩa tiếng Việt                        |
+|------------------------------------------|-----------------------------------------|
+| Let me give you a quick update on...     | Để tôi cập nhật nhanh cho bạn về...     |
+| I’d like to update you on...             | Tôi muốn cập nhật cho bạn về...         |
+| Here’s the current status of...          | Đây là tình trạng hiện tại của...       |
+| So far, we have completed...             | Cho đến nay, chúng tôi đã hoàn thành... |
+| As of now, we are working on...          | Hiện tại, chúng tôi đang làm việc với...|
+
+---
+
+## 🛠️ **II. Báo cáo tiến độ (Progress Update)**
+
+| Cụm từ tiếng Anh                              | Nghĩa tiếng Việt                           |
+|------------------------------------------------|---------------------------------------------|
+| We’re on track to finish by...                | Chúng tôi đang đi đúng tiến độ để hoàn thành trước... |
+| The project is currently ahead of schedule.   | Dự án hiện đang vượt tiến độ.              |
+| We're slightly behind schedule due to...      | Chúng tôi hơi chậm tiến độ do...            |
+| We've completed 70% of the task so far.       | Cho đến nay, chúng tôi đã hoàn thành 70% công việc. |
+| The next milestone is scheduled for...        | Mốc tiếp theo được lên kế hoạch vào...     |
+
+---
+
+## 🚧 **III. Báo cáo khó khăn, trở ngại**
+
+| Cụm từ tiếng Anh                              | Nghĩa tiếng Việt                             |
+|------------------------------------------------|----------------------------------------------|
+| We’ve encountered a minor issue with...       | Chúng tôi gặp một vấn đề nhỏ với...          |
+| There’s a slight delay caused by...           | Có một sự chậm trễ nhỏ do...                 |
+| We’re currently facing a challenge with...    | Hiện tại chúng tôi đang gặp khó khăn với...  |
+| We're working on resolving this as soon as possible. | Chúng tôi đang cố gắng giải quyết sớm nhất có thể. |
+| This issue shouldn't affect the final deadline. | Vấn đề này sẽ không ảnh hưởng đến hạn chót.  |
+
+---
+
+## ✅ **IV. Đề xuất / Hành động tiếp theo**
+
+| Cụm từ tiếng Anh                              | Nghĩa tiếng Việt                            |
+|------------------------------------------------|---------------------------------------------|
+| Our next steps will be...                    | Bước tiếp theo của chúng tôi sẽ là...       |
+| We plan to start testing next week.          | Chúng tôi dự định bắt đầu kiểm thử vào tuần tới. |
+| We recommend moving forward with...          | Chúng tôi đề xuất tiếp tục với...           |
+| We will follow up on this and report back.   | Chung tôi sẽ theo sát việc này và báo lại.  |
+| Let’s schedule another meeting to review progress. | Hãy lên lịch họp tiếp theo để xem tiến độ. |
+
+---
+
+## 💬 **V. Kết thúc phần báo cáo**
+
+| Cụm từ tiếng Anh                              | Nghĩa tiếng Việt                            |
+|------------------------------------------------|---------------------------------------------|
+| That’s all from my side.                     | Tôi báo cáo hết.                            |
+| Let me know if you have any questions.       | Nếu có thắc mắc, hãy cho tôi biết.         |
+| I’m happy to take any questions.             | Tôi sẵn sàng trả lời bất kỳ câu hỏi nào.   |
+| Thanks for your attention.                   | Cảm ơn vì đã lắng nghe.                    |
+
+---
+This issue was caused by our engineer adding the wrong function
+We were delayed by the supplier not delivering on time.
+The failure was caused by someone not following the procedure.
+She was upset by her manager criticizing her in public.
+The item has been delayed due to the late arrival of the fixture
+The item was delayed because the fixture arrived late
+Yes, we have asked the vendor to provide the DFM as soon as possible
+Thời gian hy vọng nhận được	Expected time / Expected delivery time	Kỳ vọng thực tế
+Mốc thời gian mong đợi	Target date / Target timeline	Mang tính kế hoạch
+
+Nghĩa | Ví dụ | Dịch nghĩa
+Tiếp tục sau khi dừng lại | After the break, we will proceed with the presentation. | Sau giờ nghỉ, chúng ta sẽ tiếp tục với bài thuyết trình.
+Tiến hành làm gì (trang trọng) | We will now proceed to the next agenda item. | Chúng ta sẽ tiến hành mục tiếp theo trong chương trình nghị sự.
+Tiếp tục theo một hướng nhất định | Please proceed to the exit in an orderly manner. | Vui lòng di chuyển ra lối thoát một cách trật tự.
+🔹 Cách dùng phổ biến của "proceed"
+1. proceed with + something → tiếp tục với việc gì
+They decided to proceed with the construction project.
+→ Họ quyết định tiếp tục dự án xây dựng.
+
+2. proceed to + verb → chuyển sang làm việc gì tiếp theo
+He finished his meal and proceeded to pay the bill.
+→ Anh ấy ăn xong và tiếp tục thanh toán hóa đơn.
+
+3. proceed to + noun/place → đi đến nơi nào đó
+Passengers should proceed to Gate 5.
+→ Hành khách nên di chuyển đến Cổng số 5.
+
+4. proceed against someone (pháp lý) → khởi kiện ai đó
+The company proceeded against the former employee for breach of contract.
+→ Công ty đã khởi kiện nhân viên cũ vì vi phạm hợp đồng.
+
+Từ khóa | Nghĩa
+Timeline | Dòng thời gian
+Deadline | Hạn chót
+Milestone | Cột mốc quan trọng
+Due date | Ngày đến hạn
+Phase / Stage | Giai đoạn
+Schedule / On schedule | Lịch trình / Đúng lịch
+Behind schedule | Trễ tiến độ
+Ahead of schedule | Vượt tiến độ
+Timeframe | Khoảng thời gian
+Duration | Thời lượng
+Extension | Gia hạn thời gian
+
+Từ khóa | Nghĩa
+Progress | Tiến độ
+Completed / Finished | Đã hoàn thành
+Ongoing / In progress | Đang thực hiện
+Pending | Chưa xử lý
+Delayed | Bị trì hoãn
+On hold | Đang tạm dừng
+Task assigned to... | Nhiệm vụ được giao cho...
+Deliverable | Kết quả bàn giao
+Update | Cập nhật
+
+I would like to inform you that I will be taking over the Client A communications from Anna, starting April 20th. Please feel free to reach out to me directly for any related matters moving forward.
+✅ 1. Dạng lịch sự, phổ biến trong môi trường công sở
+I will be taking over [the task/project] from [Name].
+→ Tôi sẽ đảm nhận [công việc/dự án] từ [Tên].
+
+I will take responsibility for [the task/project], previously handled by [Name].
+→ Tôi sẽ chịu trách nhiệm cho [nhiệm vụ/dự án] trước đây do [Tên] phụ trách.
+
+As of [date], I will be responsible for [task], taking over from [Name].
+→ Kể từ [ngày], tôi sẽ chịu trách nhiệm cho [nhiệm vụ], thay cho [Tên].
+✅ 2. Dạng thân thiện, dùng trong nội bộ hoặc nhóm
+I’m taking over [project/task] from [Name] starting next week.
+→ Tôi sẽ tiếp quản [công việc] từ [Tên] bắt đầu từ tuần tới.
+
+[Name] is transitioning the [task/project] over to me.
+→ [Tên] đang chuyển giao [nhiệm vụ/dự án] cho tôi.
+
+I'll be stepping in to handle [task] moving forward.
+→ Tôi sẽ đảm nhận [công việc] từ bây giờ.
