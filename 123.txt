@@ -1,8 +1,12 @@
-Hi Kuiper team, before starting testing report, i would like to briefly introduce my self.
-My name is Charlie form CNT Team. I will be responsible for Primo, taking over Tim, starting this week. Nice to meet you all
-Now I would like to update you on testing part. The first, For DFM approval, for now we haven't got approval from Kuiper yet so schedule has been pushed back to the 23rd (a delay of two days)
-Moving on, Regarding, AFT shielding box, In case, AGT vendor is designated. we will be able to be on schedule. If AGT is not designated, We will wait for June 19th just DFM. so we suggest going with AGT to meet the deadline. how do you think?
+Hi Kuiper team, 
+My name is Charlie form CNT TE Team. I will be responsible for Primo, taking over Tim, starting this week. 
+I would like to update testing part. The first, Regarding DFM approval, for now we haven't got approval from Kuiper yet so schedule has been pushed back to the 23rd (a delay of two days)
+Because Chunk has got an issue with VPN so He still hasn't approve DMF yet
+Moving on to the AFT shielding box, In case, AGT vendor is designated by Kuiper, The delivery time will be shorter. I mean we will receive fixture sooner. If not, We will follow normal purchasing process and DFM will be June 19th, which means it will be behind schedule. so we suggest going with AGT to catch up with the deadline. what do you think?
 And the same with AFT shielding, for Zero Gauss, we also suggest going with the Welltest vendor
+The combo board was changed on 4/22 so need to check with vendor whether DMF needs to be updated?
+No, We will follow normal process to flash
+
 Cách nói tiếng Anh        | Nghĩa tiếng Việt | Ghi chú
 on schedule               | đúng tiến độ, đúng lịch trình | Cách dùng phổ biến nhất
 on track                  | đang đi đúng hướng, đúng tiến độ | Thường dùng trong báo cáo tiến độ
