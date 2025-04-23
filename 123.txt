@@ -1,7 +1,28 @@
+
+Hi Kuiper team, 
+My name is Charlie form CNT TE Team. I will be responsible for Primo, taking over Tim
+Hi Chuck, Regarding DFM approval, could you help to double-check if these fixtures have been approved?
+Let me go through one by one
+the first, for PCBA testing, the all DMF have been approved, and There is a slight delay on SWDL and BFT1 2up fixture
+To work around the issue, we will use a retrofit fixture to address the issue
+Moving on to FATP test, for AFT shielding box, In case, Angeton vendor is designated, the delivery time will be shorter.
+so we suggest going with Angeton to catch up with schedule
+If not, we need to follow normal purchasing process and it will be delayed and impact build
+for this item, we are facing challenge
+Next, Test carrier DFM has been approved and stay on schedule
+Moving on,For Desense DMF will be approved on 28 and on schedule
+No issue with SGP Simulator
+For test trolly, we already removed it because Desense is designed for 1 up
+CP antenna carrier has been approved and no issue
+last one, for Zero Gauss, we also suggest going with Welltest vendor and we're having challenge
+
 Hi Kuiper team, 
 My name is Charlie form CNT TE Team. I will be responsible for Primo, taking over Tim, starting this week. 
 I would like to update testing part. The first, Regarding DFM approval, for now we haven't got approval from Kuiper yet so schedule has been pushed back to the 23rd (a delay of two days)
 Because Chunk has got an issue with VPN so He still hasn't approve DMF yet
+We will try to expedite the process
+We’ll do our best to shorten the schedule
+We will try to reduce lead time
 Moving on to the AFT shielding box, In case, AGT vendor is designated by Kuiper, The delivery time will be shorter. I mean we will receive fixture sooner. If not, We will follow normal purchasing process and DFM will be June 19th, which means it will be behind schedule. so we suggest going with AGT to catch up with the deadline. what do you think?
 And the same with AFT shielding, for Zero Gauss, we also suggest going with the Welltest vendor
 The combo board was changed on 4/22 so need to check with vendor whether DMF needs to be updated?
