@@ -1,4 +1,130 @@
+Hi Chuck, sorry to bother you — when you have a moment, could you please help review the DFM for the item below? Thank you in advance!
+Hi Chuck, regarding Primo's TCD — at the BFT2 station, I’m wondering whether we need to add more "Read 56V Over I2C" test items.
+What would be the process to do mini GRR if we only have 1x known good unit?
+Could u send me the result file for loop 58?
+Based on the x60 loop data, its OK to skip path loss measurement and use the previous path loss that we calculated before.
+For the x1 Tx Cal failure, it appears to be docker disconnected or connection issues  and not a device functional failures. Therefore based on the x60 loop data, I'm good move on to next qualification steps
+Understand the program urgency. However, MTE team owns fixture qualification. Its a risk since it's brand new chamber.
+Thank you, Joshua. I do not have any concern based on the data.
+is what I think it should be
+Can't do any sort of qualification with only x1 device. Hence, I will look into CPK based on this x60 loops. Give me 15mins!
+Please complete the validation listed in this Jira by today. We need this data to make a decision on switching to the new Docker version to support ARF and AFT parallel testing.2 and 4 slots be totally different? If not, I would like to review both.
+If we are uploading from golden image to 5.0.3, do we need a intermediate version in between?
+Should be out in a few minutes
+Also from automation perspective, can the pick-N-place of the boards be in parallel for x4/x2 up rather than handling them one at a time? 
+On the other hand, for the first coming build of the HVT1 Combo which is estimated to be next week, may we know if we shall use the build phase name as "HVT1_PLUS"?
+For the build phase let me discuss internally tomorrow how we want to group these for naming
+What's the this shielding box different from the one you have in CNT TW in term of internal dimension, RF freq isolation, etc.?
+Is there a connector for GPS ANT at the back wall also?
+What is the intent of the test? I see this Primo device is tested on Coco chamber while Primo chamber is sitting idle
+Is it conshistent?
+The logs on server side are not showing anything.  The error appears to be client side.  Have any of the client files been changed?
+Hi everyone, my name is Charlie from CNT TE Team, I will being responsible for Primo project, taking over from Tim,
+It's my pleasure to support and collaborate with every one. Nice to meet you!
+If we are going prod to diag
+To go from prod to diag, the Kazam sequence needs to call station/invalidate_partition, power cycle, and then call station/diag_to_diag
+Can we verify that the Kazam sequence we are running is doing that?
+But at swdl station we do not have station/invalidate_partition. So we need use p2 to do this
 
+Can we prioritize this task to meet our deadline?
+is there any chance we can get this done faster?
+Would really help if we could move a bit quicker on this
+This is quite urgent. Please prioritize and aim to complete it as soon as possible
+"**Go for**" là một cụm động từ tiếng Anh rất đa nghĩa và được dùng khá phổ biến trong hội thoại hằng ngày. Dưới đây là những cách dùng phổ biến nhất của **"go for"**, kèm ví dụ và nghĩa tiếng Việt để bạn dễ hiểu:
+
+---
+
+### 1. **Cố gắng đạt được điều gì đó**  
+➡ Nghĩa: cố gắng đạt mục tiêu, ước mơ, cơ hội
+
+- **Ví dụ**:  
+  🔹 *You should go for that job – it’s a great opportunity!*  
+  → Bạn nên ứng tuyển công việc đó – đây là một cơ hội tốt đấy!
+
+---
+
+### 2. **Chọn cái gì đó**  
+➡ Nghĩa: chọn, quyết định chọn một cái gì đó
+
+- **Ví dụ**:  
+  🔹 *I think I’ll go for the pizza instead of the pasta.*  
+  → Tôi nghĩ tôi sẽ chọn pizza thay vì mì ống.  
+  🔹 *Which color are you going for?*  
+  → Bạn chọn màu nào vậy?
+
+---
+
+### 3. **Rất thích cái gì đó / ai đó**  
+➡ Nghĩa: thích, bị thu hút bởi (thường dùng với người)
+
+- **Ví dụ**:  
+  🔹 *She usually goes for tall guys.*  
+  → Cô ấy thường thích những chàng trai cao.  
+  🔹 *He doesn’t really go for spicy food.*  
+  → Anh ấy không thích đồ ăn cay cho lắm.
+
+---
+
+### 4. **Tấn công / nhắm vào (nghĩa tiêu cực)**  
+➡ Nghĩa: lao vào, nhảy vào (cãi nhau, đánh nhau, công kích…)
+
+- **Ví dụ**:  
+  🔹 *The dog went for the mailman!*  
+  → Con chó lao vào người đưa thư!  
+  🔹 *He really went for me in that meeting.*  
+  → Anh ta thực sự tấn công tôi (lời nói) trong cuộc họp đó.
+
+---
+
+### 5. **Được bán với giá…**  
+➡ Nghĩa: có giá trị bao nhiêu (trong bán hàng)
+
+- **Ví dụ**:  
+  🔹 *That painting went for $10,000 at auction.*  
+  → Bức tranh đó đã được bán với giá 10.000 đô tại buổi đấu giá.
+
+---
+
+Nếu bạn đang gặp một câu cụ thể có cụm "go for", gửi mình để mình phân tích theo đúng ngữ cảnh nhé!
+
+"**Go over**" là một cụm động từ tiếng Anh có nhiều nghĩa khác nhau tùy vào ngữ cảnh. Dưới đây là các nghĩa phổ biến nhất kèm ví dụ dễ hiểu:
+
+---
+
+### 1. **Xem lại, kiểm tra lại** (to review or examine something carefully)
+
+- **Nghĩa tiếng Việt**: xem lại, ôn lại, kiểm tra kỹ lưỡng.  
+- **Ví dụ**:  
+  🔹 *Let’s go over the report before we send it.*  
+  → Hãy xem lại bản báo cáo trước khi gửi đi.  
+  🔹 *I need to go over my notes before the exam.*  
+  → Tôi cần ôn lại ghi chú trước kỳ thi.
+
+---
+
+### 2. **Giải thích, trình bày** (to explain or discuss something)
+
+- **Ví dụ**:  
+  🔹 *Can you go over the plan one more time?*  
+  → Bạn có thể trình bày lại kế hoạch một lần nữa không?
+
+---
+
+### 3. **Đi qua** (ít dùng hơn, nhưng vẫn đúng trong một số ngữ cảnh)
+
+- **Ví dụ**:  
+  🔹 *The plane went over the city.*  
+  → Chiếc máy bay bay qua thành phố.
+
+---
+
+### 4. **Đạt mức, vượt quá** (trong một số ngữ cảnh, thường là dạng "go over [amount]")
+
+- **Ví dụ**:  
+  🔹 *Try not to go over the budget.*  
+  → Cố gắng đừng vượt quá ngân sách.
+
+---
 Hi Kuiper team, 
 My name is Charlie form CNT TE Team. I will be responsible for Primo, taking over Tim
 Hi Chuck, Regarding DFM approval, could you help to double-check if these fixtures have been approved?
