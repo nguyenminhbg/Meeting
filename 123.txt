@@ -1,5 +1,259 @@
+Actually, we need to buy a 2-up to increase UPH.
+Chuck has approved the DFM for the 2-up.
+Now we are waiting for quotations from both Bojay and Welltest and then update it to Kuiper
+
+
+For SWDL and BFT1 2-up new buy, status is waiting for cost approval. and it will be delayed, to work around this issue
+We will use retrofit fixture first to avoid blocking build
+For SWDL, BFT1 and BFT2 retrofit, We have already informed Bojay to kick off fabrication on May 10th and it is on the schedule
+For FATP part, all equipment and fixtures have been kicked off fabrication
+And we are having slight delay with AFT shielding box and Zero Gauss Chamber, due to a lead time of 35 days, we are discussing with supplier 
+to speed up fabrication. will provide confirmation next week
+the remaining fixture status is on-going 
+I am not allowed to participate in the price negotiation process
+
+The first step is to link Merlin with BPN at the VI station.
+The second step is to confirm that they have been linked correctly.
+How do we confirm this, and which station should we confirm at?
+Dưới đây là một số **liên từ (conjunctions)** thường dùng trong tiếng Anh, kèm theo ví dụ để bạn dễ hiểu hơn:
+
+### 1. **And** (và)
+
+* **Use:** Dùng để nối các phần tử cùng loại hoặc diễn tả sự kết hợp.
+* **Ví dụ:**
+  **I like coffee and tea.**
+  (Tôi thích cà phê và trà.)
+
+### 2. **But** (nhưng)
+
+* **Use:** Dùng để nối hai ý trái ngược hoặc mâu thuẫn.
+* **Ví dụ:**
+  **I wanted to go for a walk, but it started raining.**
+  (Tôi muốn đi dạo, nhưng trời bắt đầu mưa.)
+
+### 3. **Or** (hoặc)
+
+* **Use:** Dùng để đưa ra sự lựa chọn giữa hai hoặc nhiều thứ.
+* **Ví dụ:**
+  **You can have tea or coffee.**
+  (Bạn có thể chọn trà hoặc cà phê.)
+
+### 4. **Because** (bởi vì)
+
+* **Use:** Dùng để giải thích lý do hoặc nguyên nhân.
+* **Ví dụ:**
+  **I stayed home because it was raining.**
+  (Tôi ở nhà vì trời đang mưa.)
+
+### 5. **So** (vì vậy)
+
+* **Use:** Dùng để chỉ ra kết quả hoặc mục đích.
+* **Ví dụ:**
+  **She was tired, so she went to bed early.**
+  (Cô ấy mệt, vì vậy cô ấy đi ngủ sớm.)
+
+### 6. **Although / Though** (mặc dù)
+
+* **Use:** Dùng để diễn tả sự đối lập giữa hai ý tưởng.
+* **Ví dụ:**
+  **Although it was cold, we went for a walk.**
+  (Mặc dù trời lạnh, chúng tôi vẫn đi dạo.)
+
+### 7. **However** (tuy nhiên)
+
+* **Use:** Dùng để diễn tả sự tương phản hoặc thay đổi trong quan điểm.
+* **Ví dụ:**
+  **I wanted to buy the shirt. However, it was too expensive.**
+  (Tôi muốn mua chiếc áo sơ mi. Tuy nhiên, nó quá đắt.)
+
+### 8. **Therefore** (do đó)
+
+* **Use:** Dùng để chỉ kết quả hoặc sự suy luận.
+* **Ví dụ:**
+  **He didn’t study. Therefore, he failed the exam.**
+  (Anh ấy không học. Do đó, anh ấy đã trượt kỳ thi.)
+
+### 9. **Yet** (tuy nhiên, nhưng mà)
+
+* **Use:** Dùng để nối câu có ý trái ngược, tương tự như "but" hoặc "however".
+* **Ví dụ:**
+  **She is very young, yet she is very talented.**
+  (Cô ấy rất trẻ, nhưng cô ấy lại rất tài năng.)
+
+### 10. **For** (bởi vì, vì)
+
+* **Use:** Dùng để giải thích lý do, giống như "because".
+* **Ví dụ:**
+  **I didn’t go to the party, for I was feeling sick.**
+  (Tôi không đi dự tiệc, vì tôi cảm thấy ốm.)
+
+### 11. **While** (mặc dù, trong khi)
+
+* **Use:** Dùng để diễn tả sự tương phản trong hai hành động hoặc tình huống.
+* **Ví dụ:**
+  **She loves painting, while her brother prefers playing sports.**
+  (Cô ấy thích vẽ, trong khi anh trai cô ấy thích chơi thể thao.)
+
+### 12. **As** (bởi vì, như là)
+
+* **Use:** Dùng để chỉ lý do hoặc hành động xảy ra đồng thời.
+* **Ví dụ:**
+  **As it was raining, we decided to stay inside.**
+  (Bởi vì trời mưa, chúng tôi quyết định ở trong nhà.)
+
+### 13. **Since** (vì, kể từ khi)
+
+* **Use:** Dùng để chỉ lý do hoặc sự kiện xảy ra từ thời điểm nào đó.
+* **Ví dụ:**
+  **Since you are here, we can start the meeting.**
+  (Vì bạn đã có mặt, chúng ta có thể bắt đầu cuộc họp.)
+
+### 14. **Until** (cho đến khi)
+
+* **Use:** Dùng để chỉ thời gian hoặc hành động xảy ra cho đến một điểm cụ thể.
+* **Ví dụ:**
+  **I will wait until you finish your work.**
+  (Tôi sẽ đợi cho đến khi bạn hoàn thành công việc.)
+
+### 15. **Either... or** (hoặc... hoặc)
+
+* **Use:** Dùng để chỉ sự lựa chọn giữa hai lựa chọn.
+* **Ví dụ:**
+  **You can either come with us or stay at home.**
+  (Bạn có thể đi cùng chúng tôi hoặc ở nhà.)
+
+### 16. **Neither... nor** (không... cũng không)
+
+* **Use:** Dùng để phủ định cả hai lựa chọn.
+* **Ví dụ:**
+  **Neither my mother nor my father knows about the surprise.**
+  (Cả mẹ và bố tôi đều không biết về bất ngờ này.)
+
+### 17. **As long as** (miễn là)
+
+* **Use:** Dùng để chỉ điều kiện để một việc gì đó xảy ra.
+* **Ví dụ:**
+  **You can stay here as long as you keep quiet.**
+  (Bạn có thể ở đây miễn là bạn giữ im lặng.)
+
+### 18. **In case** (phòng khi)
+
+* **Use:** Dùng để chỉ trường hợp có thể xảy ra.
+* **Ví dụ:**
+  **Take an umbrella in case it rains.**
+  (Mang theo ô phòng khi trời mưa.)
+
+### 19. **In addition** (thêm vào đó)
+
+* **Use:** Dùng để bổ sung thông tin.
+* **Ví dụ:**
+  **In addition to her job, she also volunteers at the shelter.**
+  (Ngoài công việc, cô ấy còn tình nguyện tại trại tạm trú.)
+
+### 20. **On the other hand** (mặt khác)
+
+* **Use:** Dùng để đưa ra quan điểm hoặc sự thật trái ngược.
+* **Ví dụ:**
+  **I enjoy reading books. On the other hand, my sister prefers watching movies.**
+  (Tôi thích đọc sách. Mặt khác, chị tôi thích xem phim.)
+
+---
+
+Hy vọng danh sách này giúp bạn hiểu rõ hơn về cách sử dụng các liên từ trong tiếng Anh. Nếu cần thêm ví dụ hoặc giải thích, đừng ngần ngại yêu cầu nhé!
+
+Hi Team,
+Regarding Primo testing, as aligned with the CNT Rel team, Rel has confirmed that FATP test will be skipped 500 cycles.
+Therefore, TE will send all test carriers back to vendor for retrofit. This means there will be no test during carrier retrofit period.
+Please take note!
+Hi Chuck,
+I would like to update you the DFMs
+And have a concern:
+TM20-TM27 is connected to RJ45 and TM32-TM39 also be connected to RJ45?
+
+Yesterday, we encountered an issue with a copy IC. Of course, it wasn’t caused by us. you're doing a great job. However, I would like to kindly have a soft remind 
+Be careful with the copy IC. It could become a serious issue if it happens on our side
+Don't flash anything if you are not sure about it. Thank you so much!
+Hi Chuck,
+Because we updated new TCD today, so Bojay needs to revise the DFM. As a result, I still have not sent you the DFM yet
+I would like to align with you about the DFM
+1. SWDL will be probed on single side according to your email and TCD Test Points(for both the retrofit 1-up and new buy 2-up)
+2. BFT1 will proceed with double-sided probing  (for both the retrofit 1-up and new buy 2-up)
+
+Primo：
+1. Device weight：1.090
+2. Device carrier： 4.650
+3.POE： 0.190
+4. Adapting carrier:34.075
+Coco：
+1. Device weight：2.450
+2. Device carrier：5.230
+3.POE： 0.190
+4. Adapting carrier:34.075
+
+Hi Wood, Tomorrow morning We are planning to send 4 fixtures (SWDL 2x, BFT1 1x, BFT2 1x) back to Bojay VietNam retrofit.
+So please help arrange manpower and time to implement it.
+Regarding SWLD and BFT1 2up new buy, I asked cost PM to provided you and Carlos a quote for 1-up but seems she forgot that, let me push her to provide immediatelly
+I would like to update the E&F Test Fixture status as follows:
+1. For PCBA Testing, We will use retrofit fixture to catch up with the schedule
+2. For FATP, we are having a bit delay with AFT shielding box and Zero Gauss Chamber (MAGCAL)(Ready for LBU on 6/27)
+To work around with FATP delay, I will try to push supplier speed up fabrication to cover.
+Please se the attached excel file for more details
+
+Today Bojay provided the DFMs. However after reviewing, I asked to revise and will provide to you tomorrow
+Hi Chuck,
+I have received the new TCD version v0.2.1 from Wei. Is this the latest version?
+In addition, as you mentioned previously, three more test points — TP424, TP425, and TP426 — have been added to the Combo board. However, I didn’t see them listed in the TCD Test Point.
+Could you please help confirm this?
+What function do those 3 test points test for?
+
+To work around this issue, Once we get the cost approval, I will try to push supplier to speed up for retrofit fixture to catch up with the schedule.
+Hi Chuck,
+For SWDL, BFT1, and BFT2, They will provide DFM on 5/9
+In parallel, Their quotation will be sent to Carlos to approve by today
+
+Primo HVT3 build plan has been changed as follows:
+
+1. Build config: HVT3-PR-COM7 will use "c0_golden_bl1.img" golden image (WO:2794000492). For this WO, I believe you don't need to update any thing.
+2. Build config: HVT3-PR-CMSP will use "Ethernet Phy GI" golden image(WO: 2794000491, golden image will be available around 5/13), For this, you need to make a mother board for EMMC, right?
+
+Hi wei,
+as you know, the Power and Combo board will be changed design, there maybe be locked down today
+so We need to update DFM and maybe the quotation will be also updated
+I'm wondering whether EVT build plan push back or not
+If no, it's really risk for CNT and especially TE
+I also know we delay in quotation.
+
+Hi Chuck,
+I just checked my email, and it seems I still haven’t received an email from you.
+Please re-forward to: charlie.wm.ruan@fii-foxconn.com
+
+After reviewing the DFM, I noticed it doesn't align with the Gerber file
+Upon reviewing the DFM, I found discrepancies between it and the Gerber file
+Hi Chuck,
+I asked Bojay to use the latest Gerber file to update the DFM for BFT2. However, I have a concern that I’d like to double-check with you
+In the latest Gerber file, I didn’t see the test point (right side) as you mentioned. To make sure everything is correct, could you please guide me on how to view it? Thanks
+
+I would like to update "Mangetic field test fixture (Magcal)" DFM.
+Zero Gauss Chamber (Magcal) has been approved before. And here is fixture, which is used inside Zero Gauss Chamber
+Please take a look and help approve if no concern.
+Where is the latest Gerber file for this one?
+
+I'm getting stuck with the quotation process, which could cause delays in the build. Could you help me with that?
+
+We need to speed up the process to meet the deadline.
+The team is working overtime to accelerate progress.
+We hired more workers to expedite the construction.
 Hi Chuck, sorry to bother you — when you have a moment, could you please help review the DFM for the item below? Thank you in advance!
-Hi Chuck, regarding Primo's TCD — at the BFT2 station, I’m wondering whether we need to add more "Read 56V Over I2C" test items.
+Hi Chuck, regarding Primo's TCD, I’m wondering whether we need to add more "Read 56V Over I2C" test items into the BFT2 station.
+Hi Chuck, As of now, we are having DFM not approved as follows:
+1. SWDL Fixture-2x up
+2. SWDL retrofit carrier
+3. BFT1 Fixture-2x up
+4. BFT1 retrofit carrier
+5. AFT shielding box
+6. Zero Gauss Chamber (same as Coco design, and Coco has been approved)
+Please help review and approve the DFM if there are no concerns. Thank you so much!
+
 What would be the process to do mini GRR if we only have 1x known good unit?
 Could u send me the result file for loop 58?
 Based on the x60 loop data, its OK to skip path loss measurement and use the previous path loss that we calculated before.
