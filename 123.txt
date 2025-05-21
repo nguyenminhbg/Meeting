@@ -1,9 +1,100 @@
+Regarding SWDL and BFT1 new buy, We provided Bojay's quotation to Carlos for review on 5/16
+For SWDL, BFT1 and BFT2 retrofit, they are no issue, status is on-going
+AFT shielding box, We are facing the delay for 2 days and  AGT has confirmed that this is the shortest possible lead time
+To work around this issue, I suggest using old AFT machine for testing in advance to avoid blocking build. Need Kuiper team to approve
+There is no highlight for remaining fixture. they are on schedule
+
+In addition, we are planning to re-layout for Primo line. For testing, do you have any concerns
+Hi Chuck,
+Regarding AFT new buy, we are behind schedule for 2 days. Therefore, to work around this issue, we will use old AFT machine (current machine) in advance
+Do you have any concerns about that. If no, tomorrow's meeting I will talk about that
+
+Nếu COM port không xuất hiện, bạn có thể cần cài driver USB-to-serial (như FTDI, CP210x, hoặc driver riêng từ TI).
+erick.yc.lin@fii-foxconn.com
+Erick829848
+L/T releasd by Welltest is 35 days
+
+However, with this LT, we will be delayed for 2 days
+
+so pleas shorten L/T for 3 days to catch up schedule
+
+In addition, I have asked welltest via Wechat many times. But as of now, I still have not received any information
+
+
+"We pulled in two more engineers to help meet the deadline."
+→ Chúng tôi huy động thêm hai kỹ sư để kịp thời hạn.
+
+"Marketing pulled in over $1 million in Q1."
+→ Bộ phận marketing đã thu về hơn 1 triệu đô trong quý 1.
+"We had to pull out of the project due to budget cuts."
+→ Chúng tôi buộc phải rút khỏi dự án vì bị cắt ngân sách.
+
+"The vendor pulled out their proposal last minute."
+→ Nhà cung cấp đã rút đề xuất của họ vào phút chót.
+"The team pulled out the IMU fixture since it wasn’t needed anymore."
+→ Nhóm đã tháo fixture IMU ra vì không còn cần dùng nữa.
+
+"We had to pull out the network module due to repeated failures."
+→ Chúng tôi phải gỡ mô-đun mạng ra vì nó liên tục bị lỗi.
+"The bus pulled in to the station on time."
+→ Xe buýt đã tấp vào trạm đúng giờ.
+
+"Can you pull in closer to the curb?"
+→ Bạn có thể tấp xe sát lề đường hơn được không?
+Hi Chuck,
+you mean you want to test panel instead of single board
+If so, It will difficult for separating failed board and need to retest panel
+
+“Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine.”
+
+“Help young people. Help small guys. Because small guys will be big. Young people will have the seeds you bury in their minds, and when they grow up, they will change the world.”
+
+@TE-Charlie (阮文明） @Eric Hsu due to Bojay issue of Hugo: 
+1. BFT fixture (newbuy) has RGB analyse issue, lacking test point, DAQ can not test some Test points, RF probe connector quite short... Please review DFM again for not making any mistake before fabrication
+2. OSS issue: Bojay only send Vietnamese staff to factory who can not handle the high level issue like: electrical issue, RF signal issue, color RGB issue, fixture control board issue -> please contact with them (Sophia these days OOO) for align the man resource of Primo. Chuck also wants vendor onsite can fix all problems
+Soft remind:
+Most of Primo fixture have had NRE, Please proceed with PO process. Don't delay schedule.
+Confirmation on CP Antenna and Waveguide Adapter for ARF Station
+Hi Andrew
+My name is Charlie from CNT TE team and I'm responsible for Primo project
+In preparation for Primo EVT, Regarding ARF station, we are planning to set up 4 CP antennas and 8 Waive Guide adapters on a ARF
+Could you kindly help confirm the following:
+1. Is the quantity of CP antennas and waveguide adapters correct?
+2. Will these be provided by the Kuiper team? If so, what is the process for acquiring them?
+lsiu@amazon.com
+The quote from Bojay is 14,975.63 dolars, which is 100 dolars more expensive than Welltest
+doble-side is 100 dollars more expensive than single-side
+the double-side's price is 2X more expensive than we buy 2 single-side
+
+Hi Kuiper team, I'm Charlie, I would like to update the E&F for testing.
+firstly, Regarding SwDL and BFT1 2 up new buy, From Caslor's email, I understand that carlos is confused about this.
+in terms of technical aspects, let me clarify about this
+Actually, we need 2 up fixture to increase performance, UPH
+So we have requested the vendor to make DFM with the old design, And we need to use double side for SwDL,
+and we have provided the quotation to Carlos with double side design. 
+After that, we had a design change last week. with the new design for swDL 2-up, it only requires a single side
+And The cost will be changed and now we are waiting for new quotations from vendor. And will provide it as soon as we have it on hand
+
+For SWDL, BFT1 and BFT2 retrofit, We have already informed Bojay to kick off fabrication on May 10th and it is on the schedule
+For FATP part, all equipment and fixtures have been kicked off fabrication
+And we are having slight delay with AFT shielding box and Zero Gauss Chamber, due to a lead time of 35 days, we are discussing with supplier 
+to speed up fabrication. will provide confirmation next week
+the remaining fixture status is on-going 
+
+
 Actually, we need to buy a 2-up to increase UPH.
 Chuck has approved the DFM for the 2-up.
 Now we are waiting for quotations from both Bojay and Welltest and then update it to Kuiper
 
 
-For SWDL and BFT1 2-up new buy, status is waiting for cost approval. and it will be delayed, to work around this issue
+For SWDL and BFT1 2-up new buy, Let me classify it
+Actually, we need to buy a 2-up to increase UPH. And We have already provided their quotation
+Carlos has feedbacked that the quotation is too high
+after that the Design has been changed and SWDL only need single side instead of double side
+so the quotation will be changed and we will update it to Kuiper team
+
+
+status is waiting for cost approval. and it will be delayed, to work around this issue
 We will use retrofit fixture first to avoid blocking build
 For SWDL, BFT1 and BFT2 retrofit, We have already informed Bojay to kick off fabrication on May 10th and it is on the schedule
 For FATP part, all equipment and fixtures have been kicked off fabrication
