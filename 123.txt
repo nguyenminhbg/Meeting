@@ -1,13 +1,35 @@
-Regarding SWDL and BFT1 new buy, We provided Bojay's quotation to Carlos for review on 5/16
-For SWDL, BFT1 and BFT2 retrofit, they are no issue, status is on-going
-AFT shielding box, We are facing the delay for 2 days and  AGT has confirmed that this is the shortest possible lead time
-To work around this issue, I suggest using old AFT machine for testing in advance to avoid blocking build. Need Kuiper team to approve
-There is no highlight for remaining fixture. they are on schedule
+All items will follow the schedule, except for SWDL and BFT1 which are expected to arrive later.
+Also, We already received 8 out of 12 test carrier retrofit.
+
+
+In the latest BM, Ethernet Phy GI will be used
+During flashing, in Extended CSD, ByteAddress 162 value default is '0'
+The Ethernet Phy GI image has been successfully flashed with three vendors: Kioxia, Samsung, and Western.
+However, I have a concern regarding address 162.
+Currently, both Coco and Hugo have set the value of address 162 to '1'.
+However, I have not yet received updated , so its value remains '0'
+Kuiper team, please help confirm this
+
+As talk in Wechat, the cost of swdl and bft have been approved. Please proceed with fabrication process to catch up with schedule
+The Ethernet Phy GI image has been successfully flashed with three vendors: Kioxia, Samsung, and Western.
+However, I have a concern regarding address 162.
+Currently, both Coco and Hugo have set the value of address 162 to '1'.
+However, I have not yet received updated information for Primo, so its value remains '0'
+Please help confirm with Kuiper team. Thanks
+
+Regarding SWDL and BFT1 new buy, the cost's approved by Carlos on 5/22, we proceed with next process
+For SWDL, BFT1 and BFT2 retrofit, their are no issue, status is on-going
+As for AFT shielding box, We are facing the delay for 2 days and  AGT has confirmed that the current lead time is the shortest possible
+To work around this issue, I suggest using the current AFT machine for early testing to avoid blocking build. Need Kuiper team to approve
+There is no highlight for remaining fixture. all are on schedule
+For CP antenna and waiveguide adapter,I sent an email to Kuiper Andrew for process confirmation last week=> the status is still waiting for Andrew's confirmation
 
 In addition, we are planning to re-layout for Primo line. For testing, do you have any concerns
 Hi Chuck,
 Regarding AFT new buy, we are behind schedule for 2 days. Therefore, to work around this issue, we will use old AFT machine (current machine) in advance
 Do you have any concerns about that. If no, tomorrow's meeting I will talk about that
+For CP antenna and waiveguide adapter,I sent an email to Kuiper Andrew for confirmation last week=> still waiting Andrew's confirmation
+
 
 Nếu COM port không xuất hiện, bạn có thể cần cài driver USB-to-serial (như FTDI, CP210x, hoặc driver riêng từ TI).
 erick.yc.lin@fii-foxconn.com
