@@ -1,6 +1,6 @@
-All items will follow the schedule, except for SWDL and BFT1 which are expected to arrive later.
-Also, We already received 8 out of 12 test carrier retrofit.
-
+All test items will follow the schedule, except for SWDL and BFT1, which are expected to arrive later.
+Also, we have already received 8 out of 12 test retrofit carriers.
+As per Kuiper's requirement, I will ask the supplier to kick off fabrication once the cost is approved.
 
 In the latest BM, Ethernet Phy GI will be used
 During flashing, in Extended CSD, ByteAddress 162 value default is '0'
