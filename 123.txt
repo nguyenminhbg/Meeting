@@ -1,5 +1,33 @@
+I have saved logs to a .txt file before.
+I have done log saving to a .txt file before
+I have previously implemented logging to a .txt file.
+before, already, in the past, previously
+I haven’t calculated the cost savings yet, but I can look into it
+The improvement idea was focused on performance, and cost impact hasn't been assessed yet
+I’m committed to staying with the company long term.
+I see myself growing and contributing here for the long run
+I truly value this opportunity and intend to build a long-term career here.
+I’m looking forward to a long-term journey with the company
+I’m fully committed to staying with the company in the long term, and I’m eager to contribute my best to support its growth and success
+I really appreciate the opportunities I’ve had here, and I look forward to continuing to grow and contribute to the team over the long term
+ what could be happening?
+
+There has been less overtime recently because the workload is more stable.
+We haven’t had much overtime lately due to a lower volume of tasks.
+The current workload allows us to complete tasks within regular working hours
+Thanks to improved processes, we’re able to finish our work on time, so overtime is no longer necessary
+Better planning and coordination have helped reduce the need for overtime.
+Overtime has been reduced as per management’s direction
+We’ve been advised to limit overtime unless absolutely necessary
+There hasn’t been much overtime lately, possibly due to the current project schedule.
+Overtime hours have decreased recently, mainly because the current workload has been manageable and we’ve been able to meet deadlines during regular working hours
+"We don’t work much overtime now because there isn’t as much urgent work as before
+For the testing part, As of now, There are no significant changes since the last week, we are still waiting for delivery
+And we will immediately inform you once there is any progress
+that's all for testing, nothing special to highlight
+
 All test items will follow the schedule, except for SWDL and BFT1, which are expected to arrive later.
-Also, we have already received 8 out of 12 test retrofit carriers.
+For test carrier, we have already received 8 out of 12 test retrofit carriers.
 As per Kuiper's requirement, I will ask the supplier to kick off fabrication once the cost is approved.
 
 In the latest BM, Ethernet Phy GI will be used
