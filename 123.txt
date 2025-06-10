@@ -1,7 +1,43 @@
+
+Overall, most items are currently on track
+For BFT1, BFT2 and SWDL, they are under shipping and fabrication. However, per Chuck's informed me in advance, we will have a design change. Add more 10 test points. So maybe we need to revise schedule for next week. And probably there will be time and cost impact. Now we are waiting for official information from Kuiper team.
+
+Item 28, we've already received all of the carriers
+For CP antenna, do we have any progress on that?
+cụm từ "pick up" mang ý nghĩa là:
+
+👉 Tiếp tục lại công việc nào đó đang dang dở
+hoặc
+
+👉 Bắt đầu lại công việc từ chỗ đã dừng trước đó
+Khi muốn nói truyền đạt nội dung cuộc họp, hãy dùng:
+Let’s pick up where we left off yesterday.
+→ Hãy tiếp tục từ chỗ hôm qua ta dừng lại.
+
+I’ll pick up the report after lunch.
+→ Tôi sẽ làm tiếp phần báo cáo sau bữa trưa.
+
+share,
+pass on,
+communicate,
+brief
+I will share the meeting notes with the team.
+I will pass on the updates from the meeting to the rest of the team.
+Please communicate the key points of the meeting to your team.
+I'll brief him on the meeting later.
+
+How was your weekend?
+Did you do anything fun over the weekend?
+What did you do over the weekend?
+Did you have a good weekend?
+Did you go anywhere over the weekend?
+Did you go out this weekend?
+Did you travel anywhere over the weekend?
 I have saved logs to a .txt file before.
 I have done log saving to a .txt file before
 I have previously implemented logging to a .txt file.
 before, already, in the past, previously
+
 I haven’t calculated the cost savings yet, but I can look into it
 The improvement idea was focused on performance, and cost impact hasn't been assessed yet
 I’m committed to staying with the company long term.
@@ -62,6 +98,7 @@ For CP antenna and waiveguide adapter,I sent an email to Kuiper Andrew for confi
 Nếu COM port không xuất hiện, bạn có thể cần cài driver USB-to-serial (như FTDI, CP210x, hoặc driver riêng từ TI).
 erick.yc.lin@fii-foxconn.com
 Erick829848
+
 L/T releasd by Welltest is 35 days
 
 However, with this LT, we will be delayed for 2 days
