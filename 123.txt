@@ -1,11 +1,157 @@
 
 Overall, most items are currently on track
-For BFT1, BFT2 and SWDL, they are under shipping and fabrication. However, per Chuck's informed me in advance, we will have a design change. Add more 10 test points. So maybe we need to revise schedule for next week. And probably there will be time and cost impact. Now we are waiting for official information from Kuiper team.
+For BFT1, BFT2 and SWDL, they are under shipping and fabrication. However,as Chuck informed me earlier, we will have a design change. Add more 10 test points. So maybe we need to revise schedule for next week. And probably there will be time and cost impact. Now we are waiting for official information from Kuiper team.
 
 Item 28, we've already received all of the carriers
-For CP antenna, do we have any progress on that?
-cụm từ "pick up" mang ý nghĩa là:
 
+For Item 29 and Item 31 (Desense and GPS simulator), they are ready to ship but have not yet been shipped because the PO is still not available. The target date for the PO to be ready is June 15th
+For item 35, CP antenna, do we have any progress on that?
+
+1. I didn’t have...
+→ Dùng cho hành động trong quá khứ, khá thông dụng.
+I didn’t have a laptop before
+I didn’t have any experience with coding before
+2. I had never had...
+→ Nhấn mạnh rằng bạn chưa từng có trước một mốc thời gian cụ thể (hoặc trước hiện tại, nếu dùng thì hiện tại hoàn thành).
+I had never had a smartphone before I started working.
+ "I have never + past participle..."
+ Đây là thì hiện tại hoàn thành (present perfect), dùng để diễn đạt một việc chưa từng xảy ra tính đến thời điểm hiện tại.
+I have never done this before
+I have never traveled abroad
+I have never used this software before.
+I have never met him
+Bạn cũng có thể thêm cụm từ để làm rõ thời gian:
+before (trước đây)
+in my life (trong đời tôi)
+until now / up to now (cho đến bây giờ)
+✅ "I didn’t do it."
+Đây là câu ở thì quá khứ đơn, dùng để nói về một hành động không xảy ra trong quá khứ.
+I didn’t do that.
+I didn’t finish the report.
+I didn’t say anything.
+Rất tốt! Dưới đây là danh sách **những cấu trúc tiếng Anh thông dụng trong giao tiếp hàng ngày**, không đi sâu vào ngữ pháp mà tập trung vào **cách nói tự nhiên, linh hoạt**:
+
+---
+
+### 🗣️ **Các câu mở đầu thường dùng**
+
+* **You know what?** → Biết gì không?
+* **Guess what!** → Đoán xem!
+* **Let me tell you something.** → Để tôi nói bạn nghe cái này.
+* **By the way…** → Nhân tiện…
+
+---
+
+### ✅ **Đồng ý / Không đồng ý**
+
+* **Sounds good to me.** → Nghe ổn đó.
+* **Fair enough.** → Nghe hợp lý đó.
+* **I couldn’t agree more.** → Tôi hoàn toàn đồng ý.
+* **I’m not sure about that.** → Tôi không chắc lắm về điều đó.
+* **That’s not how I see it.** → Tôi không nghĩ vậy.
+
+---
+
+### 💡 **Đề xuất / Gợi ý**
+
+* **How about we...** → Hay là chúng ta...
+* **Why don’t we…** → Tại sao mình không…
+* **Let’s…** → Hãy cùng…
+* **Would you mind if we…** → Bạn có phiền nếu chúng ta…
+
+---
+
+### ⏱️ **Hỏi về thời gian / lịch trình**
+
+* **What time does it start?** → Mấy giờ bắt đầu?
+* **Are you free tomorrow?** → Bạn rảnh ngày mai chứ?
+* **When works for you?** → Khi nào thì tiện cho bạn?
+
+---
+
+### ❓ **Hỏi thông tin**
+
+* **What’s going on?** → Có chuyện gì vậy?
+* **Do you know where it is?** → Bạn biết nó ở đâu không?
+* **Any idea how to…?** → Có biết làm sao để… không?
+
+---
+
+### 🙋 **Yêu cầu / Hỏi nhờ**
+
+* **Can you give me a hand?** → Bạn giúp tôi được không?
+* **Would you mind helping me?** → Bạn có phiền giúp tôi không?
+* **Can I ask you a favor?** → Tôi nhờ bạn một việc được không?
+
+---
+
+### 😅 **Khi không chắc chắn**
+
+* **I’m not sure.** → Tôi không chắc.
+* **Let me think about it.** → Để tôi suy nghĩ đã.
+* **It depends.** → Còn tùy.
+
+---
+
+### 🙌 **Kết thúc cuộc trò chuyện**
+
+* **Let’s catch up later.** → Mình nói chuyện sau nhé.
+* **Talk to you soon.** → Gặp lại sớm nhé.
+* **Take care!** → Giữ gìn nhé.
+
+---
+
+Nếu bạn muốn, mình có thể chia các cấu trúc này theo **ngữ cảnh** (trong công việc, ngoài đời, khi gọi điện, v.v.). Bạn muốn tiếp tục theo cách này không?
+Dưới đây là các cấu trúc tiếng Anh thông dụng thường dùng trong **báo cáo công việc** hoặc báo cáo tiến độ:
+
+---
+
+### 🔹 **Mở đầu báo cáo**
+
+* **This report provides an update on...** → Báo cáo này cung cấp cập nhật về...
+* **The purpose of this report is to...** → Mục đích của báo cáo này là để...
+* **As of \[date], the status is as follows:** → Tính đến ngày..., tình trạng như sau:
+
+---
+
+### 🔹 **Báo cáo tiến độ**
+
+* **Most tasks are currently on track.** → Phần lớn các công việc đang đúng tiến độ.
+* **\[Task/Item] has been completed.** → \[Hạng mục] đã hoàn thành.
+* **\[Task/Item] is in progress and expected to be done by \[date].** → \[Hạng mục] đang thực hiện và dự kiến hoàn thành trước \[ngày].
+* **There is a slight delay due to...** → Có một chút chậm trễ do...
+
+---
+
+### 🔹 **Báo cáo vấn đề**
+
+* **We encountered an issue with...** → Chúng tôi gặp sự cố với...
+* **The root cause is currently under investigation.** → Nguyên nhân gốc đang được điều tra.
+* **A temporary workaround has been applied.** → Một giải pháp tạm thời đã được áp dụng.
+* **This may impact the schedule by...** → Việc này có thể ảnh hưởng đến lịch trình trong...
+
+---
+
+### 🔹 **Gợi ý hành động / bước tiếp theo**
+
+* **We recommend proceeding with...** → Chúng tôi đề xuất tiếp tục với...
+* **The next step is to...** → Bước tiếp theo là...
+* **Please advise if any adjustment is needed.** → Vui lòng góp ý nếu cần điều chỉnh gì.
+* **We will keep you posted on any updates.** → Chúng tôi sẽ cập nhật khi có thông tin mới.
+
+---
+
+### 🔹 **Kết luận**
+
+* **To summarize, all key milestones are being tracked closely.** → Tóm lại, tất cả các mốc chính đang được theo dõi sát sao.
+* **Your feedback is appreciated.** → Rất mong nhận được phản hồi từ bạn.
+* **Thank you for your attention.** → Cảm ơn bạn đã quan tâm theo dõi.
+
+---
+
+Bạn có thể cho mình biết loại báo cáo cụ thể bạn thường viết (ví dụ: báo cáo tiến độ sản xuất, kỹ thuật, QA,...) để mình có thể điều chỉnh cấu trúc sát hơn với thực tế công việc của bạn.
+
+cụm từ "pick up" mang ý nghĩa là:
 👉 Tiếp tục lại công việc nào đó đang dang dở
 hoặc
 
