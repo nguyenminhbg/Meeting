@@ -1,11 +1,34 @@
+For SWDL, BFT1 and BFT2 retrofit fixure, Have been shipped to VietNam Bojay and currently paused at the "assembly + debug" stage
+For new buy, The probe carrier has been processed and currently paused at the "assembly + debug" stage in China Bojay
+For AFT, Vendor needs more 5 days fabrication, and target ETD will be June-22th
+For test carrier, has been shipped out 
+For Desense, target ETD will also be June-22th
+Zero Gauss Chamber (MAGCAL) were shipped out yesterday
+
+
+
+I just lost the conversation
+Sorry, I lost the connection.
+You're fading in and out, can you check your connection?
+your voice is breaking up a little bit
+It's just not been logged as failure in IQC yet
+Desense has been delayed by several days. The target ETD will be June 22. However, this delay will not impact the EVT build
+
+make up your mind
 
 Overall, most items are currently on track
-For BFT1, BFT2 and SWDL, they are under shipping and fabrication. However,as Chuck informed me earlier, we will have a design change. Add more 10 test points. So maybe we need to revise schedule for next week. And probably there will be time and cost impact. Now we are waiting for official information from Kuiper team.
+For BFT1, BFT2 and SWDL retrofit, they have been shipped to Bojay VietNam. However,as Chuck informed me earlier,There will be a design change.
+And We are currently waiting for official information and new gerber file from Kuiper team, so we can ask Bojay assess L/T and cost impact
+Based on Bojay's feedback, Maybe we need to revise the schedule
 
 Item 28, we've already received all of the carriers
 
-For Item 29 and Item 31 (Desense and GPS simulator), they are ready to ship but have not yet been shipped because the PO is still not available. The target date for the PO to be ready is June 15th
+For Item 29 and Item 31 (Desense and GPS simulator), There is a slight delay, the target shipment date is June 15th
+
 For item 35, CP antenna, do we have any progress on that?
+
+they are ready to ship but have not yet been shipped because the PO is still not available. The target date for the PO to be ready is June 15th
+
 
 1. I didn’t have...
 → Dùng cho hành động trong quá khứ, khá thông dụng.
@@ -113,7 +136,7 @@ Dưới đây là các cấu trúc tiếng Anh thông dụng thường dùng tro
 * **As of \[date], the status is as follows:** → Tính đến ngày..., tình trạng như sau:
 
 ---
-
+	
 ### 🔹 **Báo cáo tiến độ**
 
 * **Most tasks are currently on track.** → Phần lớn các công việc đang đúng tiến độ.
